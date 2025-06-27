@@ -50,7 +50,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
-
+# 💰 Funding
+- *2024.09-2025.09* Beijing Natural Science Foundation Undergraduate “Qiyan” Program (¥50k)
+- *2025.06-2026.06* Beijing Undergraduate Innovation and Entrepreneurship Training Program (¥5k)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -63,4 +65,4 @@ My research interest includes neural machine translation and computer vision. I 
 - here
 
 # 🔗 Links
-- BIRTHLab: The lab for Brain Imaging Research at Tsinghua <a href='https://birthlab.github.io/'></a>
+- BIRTHLab: [The lab for Brain Imaging Research at Tsinghua]([https://github.com/](https://birthlab.github.io))
