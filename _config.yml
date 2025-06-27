@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yijin Li"
-description              : "interested in neuroimaging."
+title                    : "Yijin Li" # 网页导航
+description              : "--------------" # 左栏一句话介绍，我当分割符用了
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,16 +19,15 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Site Author
+# Site Author # 左栏信息
 author:
   name             : "Yijin Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/my_photo.jpg"
+  bio              : "Beihang University"
   location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "liyijin6815@qq.com"
+  github           : "https://github.com/liyijin6815"
+  googlescholar    : "https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +36,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
