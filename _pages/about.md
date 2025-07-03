@@ -19,14 +19,17 @@ redirect_from:
 
 # 😃 About Me
 
-I’m a junior undergraduate student from in Beihang University https://bme.buaa.edu.cn/
+I’m a junior undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).
 
-currently an incoming PhD. student at BIRTH Lab from School of Biomedical Engineering, Tsinghua University and fortunate to be advised by Prof. Qiyuan Tian（田启源）. I was previously advised by Prof. Feiwei Qin（秦飞巍） from School of Computer Science, Hangzhou Dianzi University and Prof. Changmiao Wang（王昌淼） from Medical Big Data Lab, Shenzhen Research Institute of Big Data.
+I am very fortunate to work as a research assistant at Birth Lab led by Prof. Qiyuan Tian from School of Biomedical Engineering, Tsinghua University. I am mentored by PhD student Mingxuan Liu at Birth Lab.
+
+
+currently an incoming PhD. student at BIRTH Lab from School of Biomedical Engineering, Tsinghua University and fortunate to be advised by Prof. Qiyuan Tian（田启源）. 
+I was previously advised by Prof. Feiwei Qin（秦飞巍） from School of Computer Science, Hangzhou Dianzi University and Prof. Changmiao Wang（王昌淼） from Medical Big Data Lab, Shenzhen Research Institute of Big Data.
 
 My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medical (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Undergraduate student: **School of Biological Science and Medical Engineering**, Beihang University, Beijin, China.
@@ -72,3 +75,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔗 Links
 - BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io)
+- Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)
+- Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/)
