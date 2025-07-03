@@ -18,7 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About Me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+I’m a junior undergraduate student from in Beihang University https://bme.buaa.edu.cn/
+
+currently an incoming PhD. student at BIRTH Lab from School of Biomedical Engineering, Tsinghua University and fortunate to be advised by Prof. Qiyuan Tian（田启源）. I was previously advised by Prof. Feiwei Qin（秦飞巍） from School of Computer Science, Hangzhou Dianzi University and Prof. Changmiao Wang（王昌淼） from Medical Big Data Lab, Shenzhen Research Institute of Big Data.
+
+My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medical (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -65,4 +71,4 @@ My research interest includes neural machine translation and computer vision. I 
 - here
 
 # 🔗 Links
-- BIRTHLab: [The lab for Brain Imaging Research at Tsinghua]([https://github.com/](https://birthlab.github.io))
+- BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io)
