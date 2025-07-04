@@ -53,16 +53,18 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences](https://github.com)\ Yijin Li, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian\ **ISMRM 2025**
 
 
 # 🏅 Honors and Awards
 - *2023.10* **National Scholarship**, Ministry of Education, P.R. China.\
-            Top scholarship in China. 0.2% domestically. 
-- *2024.05* Meritorious Winner (International Level First Prize) at 2024 Interdisciplinary Contest in Modeling (ICM) / Mathematical Contest in Modeling (MCM).
-- *2024.07* First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students.
+            Top scholarship in China. 0.2% domestically.
+- *2023.10* **Beihang Outstanding Student** and Highest Prize at **Academic Excellence Scholarship**.
+- *2024.05* Meritorious Winner (International Level First Prize) at **2024 Interdisciplinary Contest in Modeling / Mathematical Contest in Modeling**.
+- *2024.07* First Prize at **9th National Biomedical Engineering Innovation Design Competition for College Students**.
+- *2024.10* **Beihang Outstanding Student** and First Prize at **Academic Excellence Scholarship**.
 - *2024.10* Outstanding Individual in 2024 Summer Social Practice for University Students in Beijing.
-- *2024.11* First Prize at 16th Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2024.11* First Prize at 16th **Contemporary Undergraduate Mathematical Contest in Modeling**.
 - *2025.05* First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
 
 
