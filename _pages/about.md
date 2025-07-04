@@ -69,7 +69,7 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 
 
 # 💁 Academic Activities
-- *2025.07*, Attended the 2025 Medical Imaging Computing Seminar in Cixi, Zhejiang, China.
+- *2025.07*, Attended the Medical Imaging Computing Seminar (MICS) 2025  in Cixi, Zhejiang, China.
 - *2025.06*, Attended the OHBM 2025 in Brisbane, Australia.
 - *2025.02*, Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
