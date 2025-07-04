@@ -21,13 +21,13 @@ redirect_from:
 
 I am currently a junior student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). 
 
-I am priviledged to serve as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian (田启源)] from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), and my mentor is PhD. student [Mingxuan Liu (刘明轩)](https://arktis2022.github.io/). I was previously advised by [Prof. Tao Liu (刘涛)](http://shi.buaa.edu.cn/TaoLiu/zh_CN/index.htm) and [Prof. Xiaoyu Liu (刘笑宇)](https://shi.buaa.edu.cn/liuxiaoyu/zh_CN/index.htm) from School of Biological Science and Medical Engineering, Beihang University.
+I am priviledged to serve as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian (田启源)] from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), and my mentor is PhD. student [Mingxuan Liu (刘铭轩)](https://arktis2022.github.io/). I was previously advised by [Prof. Tao Liu (刘涛)](http://shi.buaa.edu.cn/TaoLiu/zh_CN/index.htm) and [Prof. Xiaoyu Liu (刘笑宇)](https://shi.buaa.edu.cn/liuxiaoyu/zh_CN/index.htm) from School of Biological Science and Medical Engineering, Beihang University.
 
 My researches focuse on AI for Neuroscience, specifically targeting post-stroke cognitive impairment assessment and rehabilitation, and prenatal eeuroimaging analysis and diagnostics.
 
 You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.github.io/images/my_CV.pdf).
 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=enJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Undergraduate student: **School of Biological Science and Medical Engineering**, Beihang University, Beijin, China.
@@ -35,7 +35,7 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 # 🔥 News
 - *2025.06*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
 - *2025.02*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
-- *2024.12*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)(Power Pitch)!
+- *2024.12*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) (Power Pitch)!
 
 # 📝 Publications 
 
