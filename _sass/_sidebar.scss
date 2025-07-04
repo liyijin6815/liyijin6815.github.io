@@ -94,7 +94,7 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 20%;
+    border-radius: 100%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -254,8 +254,8 @@
 }
 
 .author__urls_sm{
-  padding: .05em;
-  font-size: 0.25em;
+  padding: .25em;
+  font-size: 1.75em;
   display: block;
   a {
     color: inherit;
