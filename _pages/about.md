@@ -23,7 +23,7 @@ I am currently a **junior student** from [School of Biological Science and Medic
 
 I am priviledged to serve as a **research assistant** at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian (田启源)](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), and my mentor is PhD. student [Mingxuan Liu (刘铭轩)](https://arktis2022.github.io/). I was previously advised by [Prof. Tao Liu (刘涛)](http://shi.buaa.edu.cn/TaoLiu/zh_CN/index.htm) and [Prof. Xiaoyu Liu (刘笑宇)](https://shi.buaa.edu.cn/liuxiaoyu/zh_CN/index.htm) from School of Biological Science and Medical Engineering, Beihang University.
 
-My researches focuse on **AI for Neuroscience**, specifically targeting post-stroke cognitive impairment assessment and rehabilitation, and prenatal eeuroimaging analysis and diagnostics.
+My researches focuse on **AI for neuroscience**, specifically targeting post-stroke cognitive impairment assessment and rehabilitation, and prenatal eeuroimaging analysis and diagnostics.
 
 You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.github.io/images/my_CV.pdf).
 
@@ -37,7 +37,7 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 # 🔥 News
 - *2025.06*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
 - *2025.02*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
-- *2024.12*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) (Power Pitch)!
+- *2024.12*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) **(Power Pitch)**!
 
 
 # 📝 Publications 
@@ -64,7 +64,7 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 
 
 # 💰 Funding
-- *2024.09-2025.09* Beijing Natural Science Foundation Undergraduate “Qiyan” Program (¥50k)
+- *2024.09-2025.09* **Beijing Natural Science Foundation Undergraduate “Qiyan” Program** (¥50k)
 - *2025.06-2026.06* Beijing Undergraduate Innovation and Entrepreneurship Training Program (¥5k)
 
 
@@ -75,7 +75,7 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 
 
 # 🦜 Invited Talks
-- *2025.02*, 2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives.
+- *2025.02*, **2025 ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
 
 
 # 🔗 Links
