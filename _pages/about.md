@@ -17,19 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😃 About Me
+# 🐝 About Me
 
-I’m a junior undergraduate student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).
+I am currently a junior student from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). 
 
-I am very fortunate to work as a research assistant at Birth Lab led by Prof. Qiyuan Tian from School of Biomedical Engineering, Tsinghua University. I am mentored by PhD student Mingxuan Liu at Birth Lab.
-
-
-currently an incoming PhD. student at BIRTH Lab from School of Biomedical Engineering, Tsinghua University and fortunate to be advised by Prof. Qiyuan Tian（田启源）. 
-I was previously advised by Prof. Feiwei Qin（秦飞巍） from School of Computer Science, Hangzhou Dianzi University and Prof. Changmiao Wang（王昌淼） from Medical Big Data Lab, Shenzhen Research Institute of Big Data.
+I am priviledged to serve as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian (田启源)](https://www.med.tsinghua.edu.cn/info/1143/2126.htm), and my mentor is PhD. student [Mingxuan Liu](https://arktis2022.github.io/). I was previously advised by [Prof. Tao Liu (刘涛)](http://shi.buaa.edu.cn/TaoLiu/zh_CN/index.htm) and [Prof. Xiaoyu Liu (刘笑宇)](https://shi.buaa.edu.cn/liuxiaoyu/zh_CN/index.htm) from School of Biological Science and Medical Engineering, Beihang University.
 
 My research interests include Artificial Intelligence: Computer Vision, Pattern Recognition and AI for Medical (Specializing in). I’m looking to collaborate on: Medical Image Analysis, Multimodal for Medical and Large Model for Medical.
 
 total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.github.io/images/my_CV.pdf).
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Undergraduate student: **School of Biological Science and Medical Engineering**, Beihang University, Beijin, China.
