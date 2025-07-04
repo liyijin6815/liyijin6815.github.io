@@ -27,7 +27,7 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.github.io/images/my_CV.pdf).
 
-<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+[//]: (<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 
 # 📖 Educations
@@ -57,10 +57,13 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 
 
 # 🏅 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-2023-2024 Academic Year, twice University First-Class Scholarships and National Scholarship
-2023-2024 学年，两次获得校级一等奖学金及国家奖学金
+- *2023.10* **National Scholarship**, Ministry of Education, P.R. China.\
+            Top scholarship in China. 0.2% domestically. 
+- *2024.05* Meritorious Winner (International Level First Prize) at 2024 Interdisciplinary Contest in Modeling (ICM) / Mathematical Contest in Modeling (MCM).
+- *2024.07* First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students.
+- *2024.10* Outstanding Individual in 2024 Summer Social Practice for University Students in Beijing.
+- *2024.11* First Prize at 16th Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2025.05* First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
 
 
 # 💰 Funding
