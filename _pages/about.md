@@ -82,9 +82,9 @@ You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.git
 - BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io)
 - Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)
 - Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/)
-- Jialan Zheng:
-- Yingqi Hao
+- Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)
+- Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)
 
 
-% # 💻 Internships
-% # 💬 Academic Services 
+[//]: (# 💻 Internships)
+[//]: (# 💬 Academic Services)
