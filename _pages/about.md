@@ -25,7 +25,7 @@ I am priviledged to serve as a **research assistant** at [Birth Lab](https://bir
 
 My researches focuse on **AI for neuroscience**, specifically targeting post-stroke cognitive impairment assessment and rehabilitation, and prenatal eeuroimaging analysis and diagnostics.
 
-You can find my CV here: [Yijin Li’s Curriculum Vitae](https://liyijin6815.github.io/images/my_CV.pdf).
+You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.github.io/assets/my_CV_Chinese.pdf) / [English Version](https://liyijin6815.github.io/assets/my_CV_English.pdf).
 
 [//]: (<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
