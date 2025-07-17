@@ -2,9 +2,6 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "Educations"
-    url: "/#-educations"
     
   - title: "News"
     url: "/#-news"
@@ -17,9 +14,6 @@ main:
 
   - title: "Funding"
     url: "/#-funding"
-
-  - title: "Academic Activities"
-    url: "/#-academic-activities"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
