@@ -58,13 +58,13 @@ You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.git
 </div>
 
 
-<span style="color:#C00000;">✝</span> co-first author                    	<span style="color:#C00000;">*</span> corresponding author
+<span style="color:#C00000;">✝</span> co-first author   $~~~~~~~~~~$   	<span style="color:#C00000;">*</span> corresponding author
 
 ---
 
 CONFERENCE PAPERS
 - [Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry](https://github.com), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MIDL 2025**
-- [FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TreOe3QAAAAJ&citation_for_view=TreOe3QAAAAJ:u5HHmVD_uO8C), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025 Workshop on 40 Years of Diffusion**
+- [BrainSFUDA Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TreOe3QAAAAJ&citation_for_view=TreOe3QAAAAJ:u5HHmVD_uO8C), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025 Workshop on 40 Years of Diffusion**
 - [FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences](https://github.com), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025**
 
 
