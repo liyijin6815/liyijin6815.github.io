@@ -72,7 +72,7 @@ CONFERENCE PAPERS
 ---
 MANUSCRIPTS UNDER REVIEW
 - **<span style="color:#000000;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span>**<br>
-   Yifei Chen#, Zihan Li#, Yuanhan Wang, **<span style="color:#C00000;">Yijin Li</span>**, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Ziyu Li, Qiyuan Tian*<br>
+   Yifei Chen✝, Zihan Li✝, Yuanhan Wang, **<span style="color:#C00000;">Yijin Li</span>**, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Ziyu Li, Qiyuan Tian*<br>
   Imaging Neuroscience (IMAG). 2025. (Under Review)
 
 # 🏅 Honors and Awards
