@@ -64,15 +64,15 @@ You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.git
 ---
 
 CONFERENCE PAPERS
-- [FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11), Mingxuan Liu✝, **<span style="color:#C00000;">Yijin Li✝</span>**, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI) 2025 (Oral)**
-- [Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry](https://openreview.net/forum?id=iLBipDelQu), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MIDL 2025**
-- [BrainSFUDA Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TreOe3QAAAAJ&citation_for_view=TreOe3QAAAAJ:u5HHmVD_uO8C), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025 Workshop on 40 Years of Diffusion (PowerPitch)**
-- [FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences](https://github.com), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025**
+- (Oral)[FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11), Mingxuan Liu✝, **<span style="color:#C00000;">Yijin Li✝</span>**, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI) 2025**.
+- [Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry](https://openreview.net/forum?id=iLBipDelQu), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MIDL 2025**.
+- (PowerPitch)[BrainSFUDA Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TreOe3QAAAAJ&citation_for_view=TreOe3QAAAAJ:u5HHmVD_uO8C), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025 Workshop on 40 Years of Diffusion**.
+- [FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences](https://github.com), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025**.
 
 ---
 MANUSCRIPTS UNDER REVIEW
-- **<span style="color:#000000;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold NetworkYijin Li</span>**
-   Yifei Chen#, Zihan Li#, Yuanhan Wang, **<span style="color:#C00000;">Yijin Li</span>**, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Ziyu Li, Qiyuan Tian*
+- **<span style="color:#000000;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span>**<br>
+   Yifei Chen#, Zihan Li#, Yuanhan Wang, **<span style="color:#C00000;">Yijin Li</span>**, Jialan Zheng, Hongjia Yang, Mingxuan Liu, Tolga Cukur, Ziyu Li, Qiyuan Tian*<br>
   Imaging Neuroscience (IMAG). 2025. (Under Review)
 
 # 🏅 Honors and Awards
