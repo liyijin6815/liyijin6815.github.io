@@ -76,6 +76,7 @@ MANUSCRIPTS UNDER REVIEW
   Imaging Neuroscience (IMAG). 2025. (Under Review)
 
 # 🏅 Honors and Awards
+- *2025.11*  **Shen Yuan Medal**, the **highest student honor** at Beihang University. Among all undergraduates at Beihang, only **10** students received this distinction.
 - *2025.07* First Prize at **China International College Students’ Innovation Competition** 2025。
 - *2025.06* First Prize at 4th "Jingcai Dachuang" Beijing College Students' Innovation and Entrepreneurship Competition.
 - *2025.05* First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
