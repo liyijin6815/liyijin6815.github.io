@@ -21,24 +21,31 @@ redirect_from:
 # 🐝 About Me
 I am currently a **senior student** from [School of Biological Science and Medical Engineering](https://bme.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). 
 
-I am priviledged to have been admitted and will be joining [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian (田启源)](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) as a **phD. student** next year. Currently, I am serving as a research assistant in the lab under the mentorship of PhD. student [Mingxuan Liu (刘铭轩)](https://arktis2022.github.io/). I was previously advised by [Prof. Tao Liu (刘涛)](http://shi.buaa.edu.cn/TaoLiu/zh_CN/index.htm) and [Prof. Xiaoyu Liu (刘笑宇)](https://shi.buaa.edu.cn/liuxiaoyu/zh_CN/index.htm) from School of Biological Science and Medical Engineering, Beihang University.
+I am priviledged to have been admitted and will be joining [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian (田启源)](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) as a **Ph.D. student** next year. Currently, I am serving as a research assistant in the lab under the mentorship of Prof. Tian and PhD. student [Mingxuan Liu (刘铭轩)](https://arktis2022.github.io/). I was previously advised by [Prof. Xiaoyu Liu (刘笑宇)](https://shi.buaa.edu.cn/liuxiaoyu/zh_CN/index.htm) from School of Biological Science and Medical Engineering, Beihang University.
 
 My researches focuse on **AI for neuroscience**, specifically targeting post-stroke cognitive impairment assessment and rehabilitation, and prenatal eeuroimaging analysis and diagnostics.
 
-You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.github.io/assets/my_CV_Chinese.pdf) / [English Version](https://liyijin6815.github.io/assets/my_CV_English.pdf).
+[//]: (You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.github.io/assets/my_CV_Chinese.pdf) / [English Version](https://liyijin6815.github.io/assets/my_CV_English.pdf).)
 
-[//]: (<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Undergraduate student: **School of Biological Science and Medical Engineering**, **Beihang University**, Beijin, China.
+- *Sep. 2026 - Jun. 2031*, Ph.D. student: **Biomedical Engineering**, **Tsinghua University**, Beijin, China.
+- *Sep. 2022 - Jun. 2026*, Undergraduate student: **Biological Science and Medical Engineering**, **Beihang University**, Beijin, China.
 
 
 # 🔥 News
-- *2025.07*: 🎉🎉 Our paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/)**(Oral)**!
-- *2025.06*: 🎉🎉 Our paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
-- *2025.02*: 🎉🎉 Our paper has been accepted by [ISMRM 2025](https://www.ismrm.org/)!
-- *2024.12*: 🎉🎉 Our paper has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) **(Power Pitch)**!
+**2026**
+- *Feb. 04, 2026*: 🎉🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral presentation**!
+- *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral presentation**!
+**2025**
+- *Nov. 21, 2025*: 🎉🎉  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually).!
+- *2025.07*: 🎉🎉 Paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/) as **Oral Presentation**!
+- *2025.06*: 🎉🎉 Paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
+- *2025.02*: 🎉🎉 Abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
+**2024**
+- *2024.12*: 🎉🎉 Abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) as **Power Pitch**!
 
 
 # 📝 Publications 
@@ -63,7 +70,7 @@ You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.git
 
 ---
 
-CONFERENCE PAPERS
+CONFERENCE PAPERS & ABSTRACTS
 - (Oral)[FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11), Mingxuan Liu✝, **<span style="color:#C00000;">Yijin Li✝</span>**, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI) 2025**.
 - [Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry](https://openreview.net/forum?id=iLBipDelQu), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MIDL 2025**.
 - (PowerPitch)[BrainSFUDA Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TreOe3QAAAAJ&citation_for_view=TreOe3QAAAAJ:u5HHmVD_uO8C), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025 Workshop on 40 Years of Diffusion**.
@@ -91,21 +98,25 @@ MANUSCRIPTS UNDER REVIEW
 
 
 # 💰 Funding
-- *2024.09-2025.09* **Beijing Natural Science Foundation Undergraduate “Qiyan” Program** (¥50k)
-- *2025.06-2026.06* Beijing Undergraduate Innovation and Entrepreneurship Training Program (¥5k)
+- *Sep. 2024-Sep. 2025* **Beijing Natural Science Foundation Undergraduate “Qiyan” Program** (¥50k)
+- *Jun. 2025-Jun. 2026* Beijing Undergraduate Innovation and Entrepreneurship Training Program (¥5k)
 
 
 # 💁 Academic Activities
-- *2025.10*, Attended the 2025 Beijing-Tsinghua Health AI Summit (Beihai Summit) in Beijing, China.
-- *2025.09*, Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
-- *2025.07*, Attended the 2025 Medical Imaging Computing Seminar (MICS)  in Cixi, Zhejiang, China.
-- *2025.06*, Attended the OHBM 2025 in Brisbane, Australia.
-- *2025.02*, Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
+- *Opt. 24, 2025*, Attended the 2025 Beijing-Tsinghua Health AI Summit (Beihai Summit) in Beijing, China.
+- *Sep. 09, 2025*, Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
+- *Jul. 17-21, 2025*, Attended the 2025 Medical Imaging Computing Seminar (MICS)  in Cixi, Zhejiang, China.
+- *Jun. 22-30, 2025*, Attended the OHBM 2025 in Brisbane, Australia.
+- *Feb. 15-21, 2025*, Attended the ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan.
 
 
 # 🦜 Invited Talks
 - *2025.10*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
 - *2025.02*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
+
+
+# 🖋️ Academic Services
+- **Conference Reviewers** of: OHBM 2026, ISMRM 2026.
 
 
 # 🔗 Links
