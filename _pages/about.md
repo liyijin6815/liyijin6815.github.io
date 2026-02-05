@@ -27,7 +27,7 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 [//]: (You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.github.io/assets/my_CV_Chinese.pdf) / [English Version](https://liyijin6815.github.io/assets/my_CV_English.pdf).)
 
-<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 📖 Educations
@@ -39,13 +39,15 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 **2026**
 - *Feb. 04, 2026*: 🎉🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral presentation**!
 - *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral presentation**!
+
 **2025**
 - *Nov. 21, 2025*: 🎉🎉  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually).!
-- *2025.07*: 🎉🎉 Paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/) as **Oral Presentation**!
-- *2025.06*: 🎉🎉 Paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
-- *2025.02*: 🎉🎉 Abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
+- *Jul. 2025*: 🎉🎉 Paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/) as **Oral Presentation**!
+- *Jun. 2025*: 🎉🎉 Paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
+- *Feb. 2025*: 🎉🎉 Abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
+
 **2024**
-- *2024.12*: 🎉🎉 Abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) as **Power Pitch**!
+- *Dec. 2024*: 🎉🎉 Abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) as **Power Pitch**!
 
 
 # 📝 Publications 
@@ -70,7 +72,7 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 ---
 
-CONFERENCE PAPERS & ABSTRACTS
+CONFERENCE PAPERS AND ABSTRACTS
 - (Oral)[FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11), Mingxuan Liu✝, **<span style="color:#C00000;">Yijin Li✝</span>**, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI) 2025**.
 - [Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry](https://openreview.net/forum?id=iLBipDelQu), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*, **MIDL 2025**.
 - (PowerPitch)[BrainSFUDA Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TreOe3QAAAAJ&citation_for_view=TreOe3QAAAAJ:u5HHmVD_uO8C), **<span style="color:#C00000;">Yijin Li</span>**, Mingxuan Liu, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*, **ISMRM 2025 Workshop on 40 Years of Diffusion**.
@@ -83,18 +85,19 @@ MANUSCRIPTS UNDER REVIEW
   Imaging Neuroscience (IMAG). 2025. (Under Review)
 
 # 🏅 Honors and Awards
-- *2025.11*  **Shen Yuan Medal**, the **highest student honor** at Beihang University. Among all undergraduates at Beihang, only **10** students received this distinction.
-- *2025.07* First Prize at **China International College Students’ Innovation Competition** 2025。
-- *2025.06* First Prize at 4th "Jingcai Dachuang" Beijing College Students' Innovation and Entrepreneurship Competition.
-- *2025.05* First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
-- *2024.11* First Prize at 16th **Contemporary Undergraduate Mathematical Contest in Modeling**.
-- *2024.10* Outstanding Individual in 2024 Summer Social Practice for University Students in Beijing.
-- *2024.10* **Beihang Outstanding Student** and First Prize at **Academic Excellence Scholarship**.
-- *2024.07* First Prize at **9th National Biomedical Engineering Innovation Design Competition for College Students**.
-- *2024.05* Meritorious Winner (International Level First Prize) at **2024 Interdisciplinary Contest in Modeling / Mathematical Contest in Modeling**.
-- *2023.10* **National Scholarship**, Ministry of Education, P.R. China.\
+- *Nov. 2025*  **Shen Yuan Medal**, the **highest student honor** at Beihang University. Among all undergraduates at Beihang\
+  Only **10** undergraduate students received this distinction.
+- *Jul. 2025* First Prize at **China International College Students’ Innovation Competition** 2025。
+- *Jun. 2025* First Prize at 4th "Jingcai Dachuang" Beijing College Students' Innovation and Entrepreneurship Competition.
+- *May 2025* First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
+- *Nov. 2024* First Prize at 16th **Contemporary Undergraduate Mathematical Contest in Modeling**.
+- *Oct. 2024* Outstanding Individual in 2024 Summer Social Practice for University Students in Beijing.
+- *Oct. 2024* **Beihang Outstanding Student** and First Prize at **Academic Excellence Scholarship**.
+- *Jul. 2024* First Prize at **9th National Biomedical Engineering Innovation Design Competition for College Students**.
+- *May 2024* Meritorious Winner (International Level First Prize) at **2024 Interdisciplinary Contest in Modeling / Mathematical Contest in Modeling**.
+- *Oct. 2023* **National Scholarship**, Ministry of Education, P.R. China.\
             Top scholarship in China. 0.2% domestically.
-- *2023.10* **Beihang Outstanding Student** and Highest Prize at **Academic Excellence Scholarship**.
+- *Oct. 2023* **Beihang Outstanding Student** and Highest Prize at **Academic Excellence Scholarship**.
 
 
 # 💰 Funding
@@ -103,7 +106,8 @@ MANUSCRIPTS UNDER REVIEW
 
 
 # 💁 Academic Activities
-- *Opt. 24, 2025*, Attended the 2025 Beijing-Tsinghua Health AI Summit (Beihai Summit) in Beijing, China.
+- *Oct. 24, 2025*, Attended the 2025 Beijing-Tsinghua Health AI Summit (Beihai Summit) in Beijing, China.
+- *Oct. 22, 2025*, Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. 
 - *Sep. 09, 2025*, Attended the 2025 Beijing Radiology Quality Control Conference in Beijing, China.
 - *Jul. 17-21, 2025*, Attended the 2025 Medical Imaging Computing Seminar (MICS)  in Cixi, Zhejiang, China.
 - *Jun. 22-30, 2025*, Attended the OHBM 2025 in Brisbane, Australia.
