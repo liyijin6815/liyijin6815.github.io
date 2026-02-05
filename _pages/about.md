@@ -29,6 +29,8 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 <a href='https://scholar.google.com/citations?hl=zh-CN&user=TreOe3QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<div class="news-container" markdown="1" id='-news'>
+
 
 # 📖 Educations
 - *Sep. 2026 - Jun. 2031*, Ph.D. student: **Biomedical Engineering**, **Tsinghua University**, Beijin, China.
