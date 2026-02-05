@@ -29,6 +29,8 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 <a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=1">
+
 
 # 📖 Educations
 - *Sep. 2026 - Jun. 2031*, Ph.D. student: **Biomedical Engineering**, **Tsinghua University**, Beijin, China.
@@ -85,24 +87,24 @@ MANUSCRIPTS UNDER REVIEW
   Imaging Neuroscience (IMAG). 2025. (Under Review)
 
 # 🏅 Honors and Awards
-- *Nov. 2025*  **Shen Yuan Medal**, the **highest student honor** at Beihang University. Among all undergraduates at Beihang\
+- *Nov. 2025*, **Shen Yuan Medal**, the **highest student honor** at Beihang University. Among all undergraduates at Beihang\
   Only **10** undergraduate students received this distinction.
-- *Jul. 2025* First Prize at **China International College Students’ Innovation Competition** 2025。
-- *Jun. 2025* First Prize at 4th "Jingcai Dachuang" Beijing College Students' Innovation and Entrepreneurship Competition.
-- *May 2025* First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
-- *Nov. 2024* First Prize at 16th **Contemporary Undergraduate Mathematical Contest in Modeling**.
-- *Oct. 2024* Outstanding Individual in 2024 Summer Social Practice for University Students in Beijing.
-- *Oct. 2024* **Beihang Outstanding Student** and First Prize at **Academic Excellence Scholarship**.
-- *Jul. 2024* First Prize at **9th National Biomedical Engineering Innovation Design Competition for College Students**.
-- *May 2024* Meritorious Winner (International Level First Prize) at **2024 Interdisciplinary Contest in Modeling / Mathematical Contest in Modeling**.
-- *Oct. 2023* **National Scholarship**, Ministry of Education, P.R. China.\
+- *Jul. 2025*, First Prize at **China International College Students’ Innovation Competition** 2025。
+- *Jun. 2025*, First Prize at 4th "Jingcai Dachuang" Beijing College Students' Innovation and Entrepreneurship Competition.
+- *May 2025*, First Prize at 35th "Feng Ru Cup" Student Academic Science and Technology Works Competition, Beihang University.
+- *Nov. 2024*, First Prize at 16th **Contemporary Undergraduate Mathematical Contest in Modeling**.
+- *Oct. 2024*, Outstanding Individual in 2024 Summer Social Practice for University Students in Beijing.
+- *Oct. 2024*, **Beihang Outstanding Student** and First Prize at **Academic Excellence Scholarship**.
+- *Jul. 2024*, First Prize at **9th National Biomedical Engineering Innovation Design Competition for College Students**.
+- *May 2024*, Meritorious Winner (International Level First Prize) at **2024 Interdisciplinary Contest in Modeling / Mathematical Contest in Modeling**.
+- *Oct. 2023*, **National Scholarship**, Ministry of Education, P.R. China.\
             Top scholarship in China. 0.2% domestically.
-- *Oct. 2023* **Beihang Outstanding Student** and Highest Prize at **Academic Excellence Scholarship**.
+- *Oct. 2023*, **Beihang Outstanding Student** and Highest Prize at **Academic Excellence Scholarship**.
 
 
 # 💰 Funding
-- *Sep. 2024-Sep. 2025* **Beijing Natural Science Foundation Undergraduate “Qiyan” Program** (¥50k)
-- *Jun. 2025-Jun. 2026* Beijing Undergraduate Innovation and Entrepreneurship Training Program (¥5k)
+- *Sep. 2024-Sep. 2025*, **Beijing Natural Science Foundation Undergraduate “Qiyan” Program** (¥50k)
+- *Jun. 2025-Jun. 2026*, Beijing Undergraduate Innovation and Entrepreneurship Training Program (¥5k)
 
 
 # 💁 Academic Activities
@@ -115,8 +117,8 @@ MANUSCRIPTS UNDER REVIEW
 
 
 # 🦜 Invited Talks
-- *2025.10*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
-- *2025.02*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
+- *Oct. 2025*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
+- *Feb. 2025*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
 
 
 # 🖋️ Academic Services
