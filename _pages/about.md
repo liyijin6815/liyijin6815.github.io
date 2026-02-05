@@ -27,9 +27,7 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 [//]: (You can find my Curriculum Vitae here: [Chinese Version](https://liyijin6815.github.io/assets/my_CV_Chinese.pdf) / [English Version](https://liyijin6815.github.io/assets/my_CV_English.pdf).)
 
-<a href='https://scholar.google.com/citations?user=TreOe3QAAAAJ><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=1">
+<a href='https://scholar.google.com/citations?hl=zh-CN&user=TreOe3QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 📖 Educations
@@ -39,17 +37,17 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 # 🔥 News
 **2026**
-- *Feb. 04, 2026*: 🎉🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral presentation**!
-- *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral presentation**!
+- *Feb. 04, 2026*: 🎉🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral Presentation**!
+- *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral Presentation**!
 
 **2025**
-- *Nov. 21, 2025*: 🎉🎉  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually).!
-- *Jul. 2025*: 🎉🎉 Paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/) as **Oral Presentation**!
-- *Jun. 2025*: 🎉🎉 Paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
-- *Feb. 2025*: 🎉🎉 Abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
+- *Nov. 21, 2025*: 🎉🎉  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually)!
+- *Jul. 17, 2025*: 🎉🎉 Paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/) as **Oral Presentation**!
+- *May 02, 2025*: 🎉🎉 Paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
+- *Feb. 01, 2025*: 🎉🎉 Abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
 
 **2024**
-- *Dec. 2024*: 🎉🎉 Abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) as **Power Pitch**!
+- *Dec. 25, 2024*: 🎉🎉 Abstract has been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/) as **Power Pitch**!
 
 
 # 📝 Publications 
@@ -117,8 +115,8 @@ MANUSCRIPTS UNDER REVIEW
 
 
 # 🦜 Invited Talks
-- *Oct. 2025*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
-- *Feb. 2025*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
+- *Oct. 24, 2025*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
+- *Feb. 17, 2025*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
 
 
 # 🖋️ Academic Services
