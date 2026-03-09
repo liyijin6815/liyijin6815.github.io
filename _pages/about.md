@@ -39,8 +39,9 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 # 🔥 News
 **2026**
-- *Feb. 04, 2026*: 🎉🎉 Four abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral Presentation**!
-- *Jan. 27, 2026*: 🎉🎉 Abstract accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral Presentation**!
+- *Feb. 13, 2026*: 🎉🎉 Abstract has been accepted by [OHBM 2026](https://humanbrainmapping.org/OHBM2026/)!
+- *Feb. 04, 2026*: 🎉🎉 Four have been abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral Presentation**!
+- *Jan. 27, 2026*: 🎉🎉 Abstract has been accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral Presentation**!
 
 **2025**
 - *Nov. 21, 2025*: 🎉🎉  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually)!
@@ -117,12 +118,13 @@ MANUSCRIPTS UNDER REVIEW
 
 
 # 🦜 Invited Talks
+- *Mar. 5, 2026*, 
 - *Oct. 24, 2025*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
 - *Feb. 17, 2025*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
 
 
 # 🖋️ Academic Services
-- **Conference Reviewers** of: OHBM 2026, ISMRM 2026.
+- **Conference Reviewers** of: ISMRM 2026, OHBM 2026, MICCAI 2026.
 
 
 # 🔗 Links
