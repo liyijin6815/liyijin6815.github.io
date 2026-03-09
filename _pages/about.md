@@ -118,7 +118,7 @@ MANUSCRIPTS UNDER REVIEW
 
 
 # 🦜 Invited Talks
-- *Mar. 5, 2026*, 
+- *Mar. 5, 2026*, Rehabilitation University-Beihang University Research Exchange Program: Graduate Research Experience Sharing Symposium.
 - *Oct. 24, 2025*, **Beijing-Tsinghua Health AI Summit (Beihai Summit)**.
 - *Feb. 17, 2025*, **ISMRM 2025 Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives**.
 
