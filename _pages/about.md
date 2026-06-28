@@ -39,12 +39,15 @@ My researches focuse on **AI for neuroscience**, specifically targeting post-str
 
 # 🔥 News
 **2026**
+🏆🏆
+- *2026.06*: &nbsp;🎉 One first-author paper accepted by **MICCAI 2026** — *Maximizing Domain Generalization in Automated Fetal Brain Biometry*
+- *2026.06*: &nbsp;🏆🏆 Won **ISMRM Summa Cum Laude Award** (3%) at ISMRM 2026.
 - *Feb. 13, 2026*: 🎉🎉 Abstract has been accepted by [OHBM 2026](https://humanbrainmapping.org/OHBM2026/)!
-- *Feb. 04, 2026*: 🎉🎉 Four have been abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral Presentation**!
+- *Feb. 04, 2026*: 🎉🎉 Four abstracts have been accepted by [ISMRM 2026](https://www.ismrm.org/26m/) with a first-author **Oral Presentation**!
 - *Jan. 27, 2026*: 🎉🎉 Abstract has been accepted by [ISMRM 2026 Workshop on Unlocking the Potential of Prenatal MRI](https://echo.ismrm.org/program/PRENATAL2026) as **Oral Presentation**!
 
 **2025**
-- *Nov. 21, 2025*: 🎉🎉  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually)!
+- *Nov. 21, 2025*: 🏆🏆  Awarded the Shen Yuan Medal, the **highest student honor at Beihang University** (10 undergraduates annually)!
 - *Jul. 17, 2025*: 🎉🎉 Paper has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/) as **Oral Presentation**!
 - *May 02, 2025*: 🎉🎉 Paper has been accepted by [MIDL 2025](https://2025.midl.io/)!
 - *Feb. 01, 2025*: 🎉🎉 Abstract has been accepted by [ISMRM 2025](https://www.ismrm.org/25m/)!
