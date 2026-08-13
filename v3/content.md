@@ -118,16 +118,16 @@ funding:
 updates:
   - date: "Aug 2026"
     title: "BMVC paper accepted"
-    description: "New work on biomedical image analysis accepted at BMVC."
-    image: "/v3/assets/updates/bmvc-2026.png"
+    description: "Our work on generalizable fetal brain angle biometry has been accepted at BMVC 2026."
+    image: "/v3/assets/images/bmvc-2026.png"
   - date: "Jul  2026"
     title: "National Biomedical Engineering Innovation Design Competition"
     description: "Participated in the national competition held in Sanya, China."
-    image: "/v3/assets/updates/bme大赛2026.jpg"
+    image: "/v3/assets/images/bme大赛2026.jpg"
   - date: "Jul 2026"
-    title: "Supported the Organization of MICS 2026 at Tsinghua"
-    description: "Contributed to the organization of MICS 2026 at Tsinghua University, hosted by Prof. Qiyuan Tian and the BIRTHLab team."
-    image: "/v3/assets/updates/mics2026.jpg"
+    title: "Supported MICS 2026 at Tsinghua"
+    description: "Contributed to the organization of MICS 2026 hosted by Prof. Qiyuan Tian."
+    image: "/v3/assets/images/mics2026.jpg"
 
 projects:
   - id: "sfuda"
