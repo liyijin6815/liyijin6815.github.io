@@ -249,11 +249,10 @@ h1, h2, h3, p { margin-top: 0; }
 .publication:last-child { border-bottom: 0; }
 .publication[hidden], .publication.is-hidden { display: none !important; }
 .pub-year { color: var(--red); font-family: Manrope, sans-serif; font-size: 11px; font-weight: 700; }
-.publication .pub-top { display: flex !important; visibility: visible !important; opacity: 1 !important; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
-.venue, .paper-type, .presentation, .first-author { display: inline-flex; align-items: center; min-height: 23px; padding: 3px 8px; color: var(--red-dark); border: 1px solid #c88f88; font-family: Manrope, sans-serif; font-size: 9px; font-weight: 700; line-height: 1; }
-.publication .pub-top > span { display: inline-flex !important; visibility: visible !important; opacity: 1 !important; }
-.venue, .presentation { background: var(--rose-light); }
-.paper-type, .first-author { background: transparent; }
+.yjl-publication-meta { display: flex !important; visibility: visible !important; opacity: 1 !important; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
+.yjl-publication-meta > .yjl-meta-tag { display: inline-flex !important; visibility: visible !important; opacity: 1 !important; align-items: center; min-height: 23px; padding: 3px 8px; color: var(--red-dark); border: 1px solid #c88f88; font-family: Manrope, sans-serif; font-size: 9px; font-weight: 700; line-height: 1; }
+.yjl-meta-venue, .yjl-meta-presentation { background: var(--rose-light); }
+.yjl-meta-type, .yjl-meta-authorship { background: transparent; }
 .pub-main h3 { margin: 0 0 5px; font-size: 17px; font-weight: 600; line-height: 1.25; }
 .pub-main h3 a:hover { color: var(--red); }
 .pub-main p { margin: 0; color: var(--muted); font-size: 11.5px; line-height: 1.45; }
