@@ -63,8 +63,10 @@ about_markdown: |-
   I am currently a **first-year Ph.D. student** in the [School of Biomedical Engineering at Tsinghua University](https://bme.tsinghua.edu.cn/en/), working with [BIRTHLab](https://birthlab.github.io) under the supervision of [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I received my bachelor's degree in Biomedical Engineering from **Beihang University** in 2026.
 
   My research interests broadly lie in **artificial intelligence for neuroscience and medicine**, with a current focus on **fetal and perinatal neuroimaging**. I am also interested in medical image analysis, **large language models, vision-language models, multimodal learning, and agentic AI**, as well as emerging techniques that may enable new biomedical discoveries.
+  My research interests broadly lie in **artificial intelligence for neuroscience and medicine**, with a current focus on **fetal and perinatal neuroimaging**. I am also interested in emerging AI approaches, including **large language models, vision-language models, multimodal learning, and agentic AI**, and their applications to medical image analysis and biomedical discovery.
 
-  **Open to collaboration.** I welcome conversations with researchers and clinicians across medical imaging, neuroscience, and artificial intelligence. Please feel free to reach out when our interests overlap.
+  **Open to collaboration.** I welcome conversations and collaborations with researchers and clinicians working at the intersection of medical imaging, neuroscience, and artificial intelligence. If our interests overlap, please feel free to get in touch.
+  {:.collaboration-note}
 
 interests:
   - title: "Neuroimaging"
@@ -76,27 +78,27 @@ interests:
     items: ["Agentic AI", "Reliable Medical AI", "Test-Time Adaptation"]
 
 selected_awards:
-  - icon: "🥇"
+  - icon: "🎓"
+    title: "Beijing Outstanding Graduate of Higher Education Institutions"
+    highlight: "Municipal-level honor"
+    description: ""
+    date: "Jun 2026"
+  - icon: "⭐"
     title: "ISMRM Summa Cum Laude Award"
     highlight: "Top 3%"
-    description: "of student presenters"
-    date: "Jun 2026"
-  - icon: "🎖️"
+    description: "of submitted abstracts"
+    date: "May 2026"
+  - icon: "🎓"
     title: "Shen Yuan Medal"
     highlight: "Highest undergraduate honor"
-    description: "at Beihang University"
+    description: "at Beihang University (10 undergraduate students per year)"
     date: "Nov 2025"
   - icon: "🏆"
-    title: "China International College Students' Innovation Competition, Beijing First Prize"
-    highlight: "Project lead"
-    description: ""
-    date: "Jul 2025"
-  - icon: "🏅"
     title: "National Biomedical Engineering Innovation Design Competition, First Prize"
     highlight: "National-level first prize"
     description: ""
     date: "Jul 2024"
-  - icon: "⭐"
+  - icon: "🎓"
     title: "National Scholarship"
     highlight: "Top national scholarship"
     description: "Ministry of Education"
