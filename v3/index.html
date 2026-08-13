@@ -14,7 +14,7 @@ sitemap: true
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/v3/styles.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/v3/styles.css' | relative_url }}?v=20260814-3">
 </head>
 <body>
   <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
@@ -66,7 +66,7 @@ sitemap: true
         <button class="pub-filter active" type="button" data-filter="all" aria-pressed="true">{{ data.ui.filters.all }} <span></span></button><button class="pub-filter" type="button" data-filter="journal" aria-pressed="false">{{ data.ui.filters.journal }} <span></span></button><button class="pub-filter" type="button" data-filter="conference" aria-pressed="false">{{ data.ui.filters.conference }} <span></span></button><button class="pub-filter" type="button" data-filter="abstract" aria-pressed="false">{{ data.ui.filters.abstract }} <span></span></button><button class="pub-filter" type="button" data-filter="first" aria-pressed="false">{{ data.ui.filters.first }} <span></span></button>
       </div>
       <p class="sr-only" id="publicationStatus" aria-live="polite"></p>
-      <div class="publication-window reveal" id="publicationList" role="region" tabindex="0" aria-label="Scrollable publication list">{% for item in data.publications %}<article class="publication" data-type="{{ item.category }}" data-first="{{ item.first_author }}"><div class="pub-year">{{ item.year }}</div><div class="pub-main"><div class="pub-top"><span class="venue">{{ item.venue }}</span><span class="paper-type">{{ item.paper_type }}</span>{% if item.presentation and item.presentation != '' %}<span class="presentation">{{ item.presentation }}</span>{% else %}<span class="presentation tag-placeholder" aria-label="No presentation distinction">&mdash;</span>{% endif %}{% if item.first_author %}<span class="first-author">First author</span>{% else %}<span class="first-author co-author">Co-author</span>{% endif %}</div><h3>{% if item.paper_url != '' %}<a href="{{ item.paper_url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3><p>{{ item.authors_html }}</p><div class="publication-links">{% if item.paper_url != '' %}<a href="{{ item.paper_url }}" target="_blank" rel="noreferrer">{{ data.ui.links.paper }}</a>{% else %}<span class="is-empty">{{ data.ui.links.paper }} <b>&mdash;</b></span>{% endif %}{% if item.code_url != '' %}<a href="{{ item.code_url }}" target="_blank" rel="noreferrer">{{ data.ui.links.code }}</a>{% else %}<span class="is-empty">{{ data.ui.links.code }} <b>&mdash;</b></span>{% endif %}</div></div></article>{% endfor %}</div>
+      <div class="publication-window reveal" id="publicationList" role="region" tabindex="0" aria-label="Scrollable publication list">{% for item in data.publications %}<article class="publication" data-type="{{ item.category }}" data-first="{{ item.first_author }}"><div class="pub-year">{{ item.year }}</div><div class="pub-main"><div class="pub-top">{% if item.venue and item.venue != '' %}<span class="venue">{{ item.venue }}</span>{% endif %}{% if item.paper_type and item.paper_type != '' %}<span class="paper-type">{{ item.paper_type }}</span>{% endif %}{% if item.presentation and item.presentation != '' %}<span class="presentation">{{ item.presentation }}</span>{% endif %}{% if item.first_author %}<span class="first-author">First author</span>{% endif %}</div><h3>{% if item.paper_url != '' %}<a href="{{ item.paper_url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3><p>{{ item.authors_html }}</p><div class="publication-links">{% if item.paper_url != '' %}<a href="{{ item.paper_url }}" target="_blank" rel="noreferrer">{{ data.ui.links.paper }}</a>{% else %}<span class="is-empty">{{ data.ui.links.paper }} <b>&mdash;</b></span>{% endif %}{% if item.code_url != '' %}<a href="{{ item.code_url }}" target="_blank" rel="noreferrer">{{ data.ui.links.code }}</a>{% else %}<span class="is-empty">{{ data.ui.links.code }} <b>&mdash;</b></span>{% endif %}</div></div></article>{% endfor %}</div>
     </section>
 
     <section class="section-shell feature-section" id="records">
@@ -90,6 +90,6 @@ sitemap: true
     <div class="dialog-content"><p class="dialog-kicker" id="dialogKicker"></p><h2 id="dialogTitle"></h2><p class="dialog-description" id="dialogDescription"></p><div class="dialog-output"><h3>{{ data.ui.headings.outputs }}</h3><ul id="dialogOutputs"></ul></div></div>
   </dialog>
   <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
-  <script src="{{ '/v3/app.js' | relative_url }}"></script>
+  <script src="{{ '/v3/app.js' | relative_url }}?v=20260814-3"></script>
 </body>
 </html>
