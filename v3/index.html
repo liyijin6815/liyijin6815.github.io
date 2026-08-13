@@ -1,0 +1,95 @@
+---
+layout: null
+permalink: /
+sitemap: true
+---
+{% assign data = site.pages | where: "path", "v3/content.md" | first %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ data.site.description | escape }}">
+  <title>{{ data.site.title | escape }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/v3/styles.css' | relative_url }}">
+</head>
+<body>
+  <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+  <header class="site-header">
+    <a class="wordmark" href="#top" aria-label="Back to top">{{ data.site.wordmark | remove: '.' }}<span>.</span></a>
+    <nav class="nav" aria-label="Primary navigation">{% for item in data.ui.nav %}<a href="#{{ item.target }}">{{ item.label }}</a>{% endfor %}</nav>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mobileNav" data-open-label="{{ data.ui.menu | escape }}" data-close-label="{{ data.ui.close | escape }}">{{ data.ui.menu }}</button>
+  </header>
+  <nav class="mobile-nav" id="mobileNav" aria-label="Mobile navigation">{% for item in data.ui.nav %}<a href="#{{ item.target }}">{{ item.label }}</a>{% endfor %}</nav>
+
+  <main id="top">
+    <section class="about-section section-shell" id="about">
+      <div class="about-layout">
+        <aside class="profile-panel reveal" aria-label="Profile and contact information">
+          <div class="profile-photo-frame"><div class="profile-photo"><img src="{{ data.profile.photo | relative_url }}" alt="{{ data.profile.photo_alt | escape }}"></div></div>
+          <div class="profile-identity">
+            <h1>{{ data.profile.name }} <span class="chinese-name">({{ data.profile.chinese_name }})</span></h1>
+            <p>{{ data.profile.role }}</p><p>{{ data.profile.institution }}</p><p>{{ data.profile.email }}</p><p class="identity-location">{{ data.profile.location }}</p>
+          </div>
+          <div class="profile-links" aria-label="Academic profiles">{% for link in data.profile.links %}<a href="{{ link.url }}" target="_blank" rel="noreferrer"><i data-lucide="{{ link.icon }}" aria-hidden="true"></i><span><b>{{ link.label }}</b><small>{{ link.note }}</small></span></a>{% endfor %}</div>
+        </aside>
+
+        <div class="about-copy reveal reveal-delay">
+          <h2 class="display-heading">About Me</h2>
+          <div class="about-prose">{{ data.about_markdown | markdownify }}</div>
+          <div class="interest-themes" aria-label="Research interests">{% for theme in data.interests %}<div class="interest-theme{% if theme.accent %} interest-accent{% endif %}"><strong>{{ theme.title }}</strong>{% for item in theme.items %}<span>{{ item }}</span>{% endfor %}</div>{% endfor %}</div>
+        </div>
+      </div>
+
+      <div class="highlights-section reveal" id="highlights">
+        <div class="highlight-column"><h3>{{ data.ui.headings.selected_awards }}</h3><ul class="compact-list award-list">{% for item in data.selected_awards %}<li><span class="color-icon" aria-hidden="true">{{ item.icon }}</span><strong>{{ item.title }}</strong><span><em>{{ item.highlight }}</em>{% if item.description != '' %} {{ item.description }}{% endif %}</span><time>{{ item.date }}</time></li>{% endfor %}</ul></div>
+        <div class="highlight-column funding-column"><h3>{{ data.ui.headings.funding }}</h3><ul class="compact-list funding-list">{% for item in data.funding %}<li><span class="color-icon" aria-hidden="true">{{ item.icon }}</span><strong>{{ item.title }}</strong><span><em>{{ item.amount }}</em> &middot; {{ item.description }}</span><time>{{ item.date }}</time></li>{% endfor %}</ul></div>
+      </div>
+    </section>
+
+    <section class="section-shell feature-section" id="updates">
+      <h2 class="display-heading reveal">{{ data.ui.headings.updates }}</h2>
+      <div class="update-scroller reveal" aria-label="Latest updates">{% for item in data.updates %}<article class="update-card {% cycle 'tone-gray', 'tone-rose' %}">{% if item.image != '' %}<div class="update-image"><img src="{{ item.image | relative_url }}" alt="{{ item.title | escape }}"></div>{% else %}<div class="update-image placeholder-image"><span>{{ data.ui.placeholders.image }}</span></div>{% endif %}<div class="update-copy"><time>{{ item.date }}</time><h3>{{ item.title }}</h3><p>{{ item.description }}</p></div></article>{% endfor %}</div>
+    </section>
+
+    <section class="section-shell feature-section" id="projects">
+      <h2 class="display-heading reveal">{{ data.ui.headings.projects }}</h2>
+      <div class="project-strip" id="projectStrip" role="region" tabindex="0" aria-label="Project highlights, horizontally scrollable">{% for item in data.projects %}<button class="project-highlight reveal" type="button" data-project="{{ item.id }}" aria-label="Open {{ item.title | escape }} project"><span class="project-thumb{% if item.image == '' %} placeholder-image{% endif %}">{% if item.image != '' %}<img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | escape }}">{% else %}<span>{{ data.ui.placeholders.project_image }}</span>{% endif %}<span class="project-open" aria-hidden="true"><i data-lucide="expand"></i></span></span><span class="project-index">{{ item.index }}</span><strong>{{ item.title }}</strong><small>{{ item.short }}</small></button>{% endfor %}</div>
+    </section>
+
+    <section class="section-shell feature-section" id="publications">
+      <h2 class="display-heading reveal">{{ data.ui.headings.publications }}</h2>
+      <div class="publication-filters reveal" role="group" aria-label="Filter publications">
+        <button class="pub-filter active" type="button" data-filter="all" aria-pressed="true">{{ data.ui.filters.all }} <span></span></button><button class="pub-filter" type="button" data-filter="journal" aria-pressed="false">{{ data.ui.filters.journal }} <span></span></button><button class="pub-filter" type="button" data-filter="conference" aria-pressed="false">{{ data.ui.filters.conference }} <span></span></button><button class="pub-filter" type="button" data-filter="abstract" aria-pressed="false">{{ data.ui.filters.abstract }} <span></span></button><button class="pub-filter" type="button" data-filter="first" aria-pressed="false">{{ data.ui.filters.first }} <span></span></button>
+      </div>
+      <p class="sr-only" id="publicationStatus" aria-live="polite"></p>
+      <div class="publication-window reveal" id="publicationList" role="region" tabindex="0" aria-label="Scrollable publication list">{% for item in data.publications %}<article class="publication" data-type="{{ item.category }}" data-first="{{ item.first_author }}"><div class="pub-year">{{ item.year }}</div><div class="pub-main"><div class="pub-top"><span class="venue">{{ item.venue }}</span><span class="paper-type">{{ item.paper_type }}</span>{% if item.presentation != '' %}<span class="presentation">{{ item.presentation }}</span>{% endif %}{% if item.first_author %}<span class="first-author">First author</span>{% endif %}</div><h3>{% if item.paper_url != '' %}<a href="{{ item.paper_url }}" target="_blank" rel="noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3><p>{{ item.authors_html }}</p><div class="publication-links">{% if item.paper_url != '' %}<a href="{{ item.paper_url }}" target="_blank" rel="noreferrer">{{ data.ui.links.paper }}</a>{% else %}<span class="is-empty">{{ data.ui.links.paper }} <b>&mdash;</b></span>{% endif %}{% if item.code_url != '' %}<a href="{{ item.code_url }}" target="_blank" rel="noreferrer">{{ data.ui.links.code }}</a>{% else %}<span class="is-empty">{{ data.ui.links.code }} <b>&mdash;</b></span>{% endif %}</div></div></article>{% endfor %}</div>
+    </section>
+
+    <section class="section-shell feature-section" id="records">
+      <h2 class="display-heading reveal">{{ data.ui.headings.records }}</h2>
+      <div class="record-grid reveal">
+        <section class="record-panel"><h3>{{ data.ui.headings.complete_awards }}</h3><div class="record-window" role="region" tabindex="0" aria-label="Complete awards list">{% for item in data.awards %}<article><time>{{ item.date }}</time><strong>{{ item.title }}</strong><span>{{ item.description }}</span></article>{% endfor %}</div></section>
+        <section class="record-panel"><h3>{{ data.ui.headings.activities }}</h3><div class="record-window" role="region" tabindex="0" aria-label="Talks and activities list">{% for item in data.activities %}<article><time>{{ item.date }}</time><strong>{{ item.title }}</strong><span>{{ item.description }}</span></article>{% endfor %}</div></section>
+      </div>
+    </section>
+
+    <section class="section-shell feature-section people-section" id="people">
+      <h2 class="display-heading reveal">{{ data.ui.headings.collaborators }}</h2>
+      <div class="collaborator-grid reveal">{% for item in data.collaborators %}<a href="{{ item.url }}" target="_blank" rel="noreferrer"><strong>{{ item.name }}</strong><span>{{ item.affiliation }}</span></a>{% endfor %}</div>
+    </section>
+  </main>
+
+  <script id="projectData" type="application/json">{{ data.projects | jsonify }}</script>
+  <dialog class="project-dialog" id="projectDialog" aria-labelledby="dialogTitle" aria-describedby="dialogDescription">
+    <button class="dialog-close" type="button" aria-label="Close project details"><i data-lucide="x" aria-hidden="true"></i></button>
+    <div class="dialog-visual"><img id="dialogImage" src="" alt=""></div>
+    <div class="dialog-content"><p class="dialog-kicker" id="dialogKicker"></p><h2 id="dialogTitle"></h2><p class="dialog-description" id="dialogDescription"></p><div class="dialog-output"><h3>{{ data.ui.headings.outputs }}</h3><ul id="dialogOutputs"></ul></div></div>
+  </dialog>
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
+  <script src="{{ '/v3/app.js' | relative_url }}"></script>
+</body>
+</html>
