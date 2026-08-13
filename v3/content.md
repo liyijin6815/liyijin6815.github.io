@@ -62,7 +62,6 @@ profile:
 about_markdown: |-
   I am currently a **first-year Ph.D. student** in the [School of Biomedical Engineering at Tsinghua University](https://bme.tsinghua.edu.cn/en/), working with [BIRTHLab](https://birthlab.github.io) under the supervision of [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm). I received my bachelor's degree in Biomedical Engineering from **Beihang University** in 2026.
 
-  My research interests broadly lie in **artificial intelligence for neuroscience and medicine**, with a current focus on **fetal and perinatal neuroimaging**. I am also interested in medical image analysis, **large language models, vision-language models, multimodal learning, and agentic AI**, as well as emerging techniques that may enable new biomedical discoveries.
   My research interests broadly lie in **artificial intelligence for neuroscience and medicine**, with a current focus on **fetal and perinatal neuroimaging**. I am also interested in emerging AI approaches, including **large language models, vision-language models, multimodal learning, and agentic AI**, and their applications to medical image analysis and biomedical discovery.
 
   **Open to collaboration.** I welcome conversations and collaborations with researchers and clinicians working at the intersection of medical imaging, neuroscience, and artificial intelligence. If our interests overlap, please feel free to get in touch.
@@ -83,7 +82,7 @@ selected_awards:
     highlight: "Municipal-level honor"
     description: ""
     date: "Jun 2026"
-  - icon: "⭐"
+  - icon: "🏆"
     title: "ISMRM Summa Cum Laude Award"
     highlight: "Top 3%"
     description: "of submitted abstracts"
@@ -93,7 +92,7 @@ selected_awards:
     highlight: "Highest undergraduate honor"
     description: "at Beihang University (10 undergraduate students per year)"
     date: "Nov 2025"
-  - icon: "🏆"
+  - icon: "🥇"
     title: "National Biomedical Engineering Innovation Design Competition, First Prize"
     highlight: "National-level first prize"
     description: ""
@@ -120,15 +119,15 @@ updates:
   - date: "Aug 2026"
     title: "BMVC paper accepted"
     description: "New work on biomedical image analysis accepted at BMVC."
-    image: ""
-  - date: "Jun 2026"
-    title: "ISMRM Summa Cum Laude"
-    description: "Recognized among the top 3% of student presenters."
-    image: ""
-  - date: "Jul 2025"
-    title: "PIPPI oral presentation"
-    description: "Presented our work on privacy-conscious fetal MRI report understanding."
-    image: ""
+    image: "/v3/assets/updates/bmvc-2026.png"
+  - date: "Jul  2026"
+    title: "National Biomedical Engineering Innovation Design Competition"
+    description: "Participated in the national competition held in Sanya, China."
+    image: "/v3/assets/updates/bme大赛2026.jpg"
+  - date: "Jul 2026"
+    title: "Supported the Organization of MICS 2026 at Tsinghua"
+    description: "Contributed to the organization of MICS 2026 at Tsinghua University, hosted by Prof. Qiyuan Tian and the BIRTHLab team."
+    image: "/v3/assets/updates/mics2026.jpg"
 
 projects:
   - id: "sfuda"
