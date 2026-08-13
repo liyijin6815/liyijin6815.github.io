@@ -192,7 +192,7 @@ publications:
     paper_type: "Short Paper"
     presentation: "Oral"
     title: "R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound"
-    authors_html: "Y. Wang<sup>#</sup>, Y. Chen, B. Wu, M. Liu, X. Hu, C. Jiang, <strong>Y. Li</strong>, C. Wang, F. Qin, Q. Tian"
+    authors_html: "Y. Wang, Y. Chen, B. Wu, M. Liu, X. Hu, C. Jiang, <strong>Y. Li</strong>, C. Wang, F. Qin, Q. Tian"
     paper_url: "https://openreview.net/forum?id=Z9znDXgtgs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DMICCAI.org%2F2026%2FWorkshop%2FPIPPI%2FAuthors%23your-submissions)"
     code_url: "https://github.com/baiyou1234/R2AoP"
   - year: "2026"
