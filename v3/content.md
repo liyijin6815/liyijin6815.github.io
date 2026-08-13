@@ -76,16 +76,6 @@ interests:
     items: ["Agentic AI", "Reliable Medical AI", "Test-Time Adaptation"]
 
 selected_awards:
-  - icon: "🥉"
-    title: "11th National College Student Biomedical Engineering Innovation Design Competition, Third Prize"
-    highlight: "National-level third prize"
-    description: ""
-    date: "Jul 2026"
-  - icon: "🥉"
-    title: "2026 Beijing-Tianjin-Hebei (Langfang) Computing Power and Algorithm Competition, Third Prize"
-    highlight: "Third Prize"
-    description: ""
-    date: "Jun 2026"
   - icon: "🎓"
     title: "Beijing Outstanding Graduate of Higher Education Institutions"
     highlight: "Municipal-level honor"
