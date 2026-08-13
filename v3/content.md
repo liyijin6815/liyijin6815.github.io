@@ -130,10 +130,10 @@ updates:
     image: "/v3/assets/images/mics2026.jpg"
 
 projects:
-  - id: "sfuda"
+  - id: "SFUDA"
     index: "01"
-    kicker: "Project 01 / Fetal MRI"
-    title: "Source-Free Adaptation for Fetal MRI"
+    kicker: "Project 01 / Fetal Brain Mask Seg"
+    title: "Source-Free Unsupervised Domain Adaptation for Fetal Brain MRI"
     short: "Robust fetal brain extraction across unseen centers and MRI sequences."
     image: "/v3/assets/images/project1.jpg"
     image_alt: "FetalSFUDA project figure"
@@ -151,8 +151,8 @@ projects:
     description: "BioTTA studies how anatomical knowledge can guide models while they adapt at test time. The project targets stable fetal brain measurements across changing acquisition conditions, with emphasis on clinically meaningful structures and robust quantitative morphometry. Replace this draft with the final project summary and insert the preferred method figure when ready."
     outputs:
       - "MIDL 2025 - Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry"
-      - "ISMRM 2026 - Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry"
-      - "OHBM 2026 - Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry"
+      - "ISMRM 2026 - BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation"
+      - "OHBM 2026 - Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis"
       - "MICCAI 2026 - Maximizing Domain Generalization in Automated Fetal Brain Biometry"
   - id: "FRACE"
     index: "03"
@@ -286,9 +286,6 @@ activities:
   - date: "Feb 2025"
     title: "ISMRM Workshop on 40 Years of Diffusion"
     description: "Power Pitch, Kyoto, Japan"
-  - date: "2026"
-    title: "Conference Reviewer"
-    description: "ISMRM, OHBM, and MICCAI"
 
 collaborators:
   - name: "BIRTHLab"
